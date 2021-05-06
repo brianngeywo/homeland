@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "959150232648",
+    "project_id": "hommie-307011",
+    "storage_bucket": "hommie-307011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959150232648:android:52febfc51a65de8615747d",
+        "android_client_info": {
+          "package_name": "com.example.ddd_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959150232648-61peg3pa397j93skfesb7d0ubno00615.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ddd_course",
+            "certificate_hash": "33b2a6d65675a8de7e837810a7489db586aff374"
+          }
+        },
+        {
+          "client_id": "959150232648-727ulidnsdbpl43nkf1vfhauf265djqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQx0mYGnbJ2j_Zd7AsjNodizAP7gOYRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959150232648-727ulidnsdbpl43nkf1vfhauf265djqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959150232648:android:77991978a994f66415747d",
+        "android_client_info": {
+          "package_name": "com.example.homeland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959150232648-727ulidnsdbpl43nkf1vfhauf265djqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQx0mYGnbJ2j_Zd7AsjNodizAP7gOYRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959150232648-727ulidnsdbpl43nkf1vfhauf265djqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959150232648:android:84e2cdcbb6982e0a15747d",
+        "android_client_info": {
+          "package_name": "com.example.kenya_rentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959150232648-1tqcgu8vfdk0r26kvfec82q0lc65kfcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kenya_rentals",
+            "certificate_hash": "33b2a6d65675a8de7e837810a7489db586aff374"
+          }
+        },
+        {
+          "client_id": "959150232648-727ulidnsdbpl43nkf1vfhauf265djqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQx0mYGnbJ2j_Zd7AsjNodizAP7gOYRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959150232648-727ulidnsdbpl43nkf1vfhauf265djqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
